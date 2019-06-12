@@ -1,4 +1,4 @@
-# Special-Project-Face-Recognition-with-Contrastive-Convolution
+# Special Project: Face Recognition with Contrastive Convolution
 This repository contains the Pytorch implementation of the paper Face Recognition with Contrastive Convolution, 
 Chunrui Han, Meina Kan, Xilin Chen published in ECCV 2018.
 
