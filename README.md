@@ -6,3 +6,5 @@ For running: the above implementation you need
 (1) The preprocessed CASIA webface dataset 
 (2) The Preproccesd LFW dataset
 #In the end you have to set the path of the dataset wherever required
+
+#REQUIREMENTS
