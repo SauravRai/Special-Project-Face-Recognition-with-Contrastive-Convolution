@@ -1,4 +1,5 @@
 '''
+Written by Saurav Rai
 For picking online pairs for training on casia dataset
 using file casialist.txt: contains list of all images in casia train dataset
 
